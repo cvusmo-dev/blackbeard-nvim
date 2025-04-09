@@ -1,6 +1,6 @@
-<a href="https://dotfyle.com/blacksheepcosmo/blackbeard-nvim-lua-blackbeard"><img src="https://dotfyle.com/blacksheepcosmo/blackbeard-nvim-lua-blackbeard/badges/plugins?style=for-the-badge" /></a>
-<a href="https://dotfyle.com/blacksheepcosmo/blackbeard-nvim-lua-blackbeard"><img src="https://dotfyle.com/blacksheepcosmo/blackbeard-nvim-lua-blackbeard/badges/leaderkey?style=for-the-badge" /></a>
-<a href="https://dotfyle.com/blacksheepcosmo/blackbeard-nvim-lua-blackbeard"><img src="https://dotfyle.com/blacksheepcosmo/blackbeard-nvim-lua-blackbeard/badges/plugin-manager?style=for-the-badge" /></a>
+<a href="https://dotfyle.com/cvusmo-dev/blackbeard-nvim-lua-blackbeard"><img src="https://dotfyle.com/cvusmo-dev/blackbeard-nvim-lua-blackbeard/badges/plugins?style=plastic" /></a>
+<a href="https://dotfyle.com/cvusmo-dev/blackbeard-nvim-lua-blackbeard"><img src="https://dotfyle.com/cvusmo-dev/blackbeard-nvim-lua-blackbeard/badges/leaderkey?style=plastic" /></a>
+<a href="https://dotfyle.com/cvusmo-dev/blackbeard-nvim-lua-blackbeard"><img src="https://dotfyle.com/cvusmo-dev/blackbeard-nvim-lua-blackbeard/badges/plugin-manager?style=plastic" /></a>
 
 # blackbeard.nvim
 
